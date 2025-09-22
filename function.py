@@ -51,7 +51,7 @@ person ={
 }
 
 person['hair_color'] = 'black'
-print(person);                // {'name': 'yoon nandar mg', 'age': '26', 'hair_color': 'black'}
+print(person);                #// {'name': 'yoon nandar mg', 'age': '26', 'hair_color': 'black'}
 
 #check "key" to use "in" person
 print('name' in person)        // True
